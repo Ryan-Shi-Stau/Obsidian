@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "223814cec450a0a8",
+            "id": "37387d99f0159192",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPH4U/Unit 1/Carrying uncertainties through calculations.md",
+                "file": "Calc Homework.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPH4U/Unit 1/Carrying uncertainties through calculations.md",
+                "file": "Calc Homework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPH4U/Unit 1/Carrying uncertainties through calculations.md",
+                "file": "Calc Homework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPH4U/Unit 1/Carrying uncertainties through calculations.md"
+                "file": "Calc Homework.md"
               }
             }
           },
@@ -171,13 +171,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -186,27 +184,31 @@
       "daily-notes:Open today's daily note": false,
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "223814cec450a0a8",
+  "active": "37387d99f0159192",
   "lastOpenFiles": [
+    "Calculus/Unit 1/1.3 Rate of Change.md",
+    "Calc Homework.md",
     "SPH4U/Unit 1/Unit Analysis.md",
+    "SPH4U/Vocab.md",
+    "accuracy vs precision.md",
+    "Calculus/Unit 1/1.2 Slope of a tangent.md",
+    "SPH4U/Unit 1/Carrying uncertainties through calculations.md",
     "SPH4U/Unit 1/Sig digs in measurements in labs.md",
     "Excalidraw/Drawing 2024-09-04 13.49.58.excalidraw.md",
     "religion/The Rules we lived by.md",
     "README.md",
-    "Calc Homework.md",
-    "Calculus/Unit 1/1.3 Rate of Change.md",
     "religion",
-    "SPH4U/Unit 1/Carrying uncertainties through calculations.md",
-    "Calculus/Unit 1/1.2 Slope of a tangent.md",
     "Calculus/Unit 1/1.1 Rationalizing Denominators.md",
     "vault",
     "SPH4U/Unit 1/Significant Digits (sig digs).md",
     "2024-09-06.md",
     "Untitled.canvas",
-    "SPH4U/Vocab.md",
     "Calculus/Unit 1",
     "Calculus",
     "Excalidraw",

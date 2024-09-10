@@ -29,3 +29,15 @@ $$
 \frac{h^3+15h^2+75h}{h}\\
 \end{align}
 $$
+## 1.3
+
+1. it's at rest at 0 seconds and at 4 seconds 
+5. speed is not a vector
+6. technically no 
+7. 
+	1. 5m/s, -15, -40 m/s respectively  
+	2. 55 m/s
+	3. $$\begin{align}v(t)&=\frac{s(t+h)-s(t)}{h}\\v(t)&=\frac{320-5(3-h)^2-(320-5(3)^2)}{h}\\v(t)&=\frac{30h-5h^2}{h}\\v(t)&=\frac{h(30-5h)}{h}\\v(t)&=\lim_{x\to0}30-5h\\v(t)&=30\end{align}$$
+9. 
+	1. 15
+	2. $$\begin{align}t(x)&=\frac{f(x+h)-f(x)}{h}\\t(x)&=\frac{20(2+h)-(2+h)^2-(20(2)-2^2)}{h}\\t(x)&=\frac{16h-h^2}{h}\\t(x)&=\frac{h(16-h)}{h}\\t(x)&=\lim_{x\to0}16-h\\t(x)&=16\end{align}$$
