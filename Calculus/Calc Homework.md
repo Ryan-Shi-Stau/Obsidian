@@ -71,3 +71,21 @@ $$
 	6. DNE
 13.  m=-1 b=3
 14. a=3 b=2 c=0
+# 1.5
+
+3. yep, if both are the same limit exists, if not it doesn't 
+4. 
+	1. 1
+	2. 1
+	3. $\frac{100}{9}$ 
+	4. $5\pi^3$
+	5. 2
+	6. 3
+7. 
+	1. 4
+	2. 1
+	3. 27
+	4. $$\begin{align}&\lim_{x\to0}\frac{\sqrt{7-x}-\sqrt{7+x}}{x}\\&\lim_{x\to0}\frac{\sqrt{7-x}-\sqrt{7+x}}{x}\times\frac{\sqrt{7-x}+\sqrt{7+x}}{\sqrt{7-x}+\sqrt{7+x}}\\&\lim_{x\to0}\frac{2x}{x(\sqrt{7-x}+\sqrt{7+x})}\\&\frac2{2\sqrt7}\\&\frac1{\sqrt7}\end{align}$$
+8. a
+	1. a
+9. 
