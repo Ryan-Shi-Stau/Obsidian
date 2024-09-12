@@ -42,7 +42,7 @@ $$
 	1. 15
 	2. $$\begin{align}t(x)&=\frac{f(x+h)-f(x)}{h}\\t(x)&=\frac{20(2+h)-(2+h)^2-(20(2)-2^2)}{h}\\t(x)&=\frac{16h-h^2}{h}\\t(x)&=\frac{h(16-h)}{h}\\t(x)&=\lim_{x\to0}16-h\\t(x)&=16\end{align}$$
 
-# 1.4
+## 1.4
 1. 
 	1. $\frac{72}{99}^-$ 
 	2. $\pi^-$
@@ -71,7 +71,7 @@ $$
 	6. DNE
 13.  m=-1 b=3
 14. a=3 b=2 c=0
-# 1.5
+	## 1.5
 
 3. yep, if both are the same limit exists, if not it doesn't 
 4. 
@@ -86,6 +86,7 @@ $$
 	2. 1
 	3. 27
 	4. $$\begin{align}&\lim_{x\to0}\frac{\sqrt{7-x}-\sqrt{7+x}}{x}\\&\lim_{x\to0}\frac{\sqrt{7-x}-\sqrt{7+x}}{x}\times\frac{\sqrt{7-x}+\sqrt{7+x}}{\sqrt{7-x}+\sqrt{7+x}}\\&\lim_{x\to0}\frac{2x}{x(\sqrt{7-x}+\sqrt{7+x})}\\&\frac2{2\sqrt7}\\&\frac1{\sqrt7}\end{align}$$
-8. a
-	1. a
+8. 
+	1. let a be $\sqrt[3]x$ $$\begin{align}&\lim_{a\to2}\frac{a-2}{a^3-8}\\&\frac{a-2}{a-2(a^2+2a+4)}\\&\frac{1}{16}\end{align}$$
+	2. let a be $\sqrt[3]x$ $$$$
 9. 
