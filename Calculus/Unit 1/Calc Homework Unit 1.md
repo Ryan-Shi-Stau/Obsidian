@@ -89,4 +89,24 @@ $$
 8. 
 	1. let a be $\sqrt[3]x$ $$\begin{align}&\lim_{a\to2}\frac{a-2}{a^3-8}\\&\frac{a-2}{a-2(a^2+2a+4)}\\&\frac{1}{16}\end{align}$$
 	2. let a be $\sqrt[3]x$ $$$$
-9. 
+9. A
+## 1.6
+
+2. no holes no jump no VA
+3. point jump infinite
+4. 1
+	1. hole at x=3
+	2. 
+	3. VA at x=-1
+
+
+$$
+\begin{align}
+&\lim_{x\to2}\frac{\sqrt{6-x}-2}{\sqrt{3-x}-1}\times\frac{\sqrt{3-x}+1}{\sqrt{3-x}+1}\\
+&\lim_{x\to2}\frac{(\sqrt{6-x}-2)(\sqrt{3-x}+1)}{3-x-1}\times\frac{\sqrt{6-x}+2}{\sqrt{6-x}+2}\\
+&\lim_{x\to2}\frac{(2-x)(\sqrt{3-x}+1)}{(2-x)(\sqrt{6-x}+2)}\\
+&=\frac{(\sqrt{3-2}+1)}{(\sqrt{6-2}+2)}\\
+&=\frac{2}{4}\\
+&=\frac12
+\end{align}
+$$
