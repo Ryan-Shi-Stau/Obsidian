@@ -4,7 +4,6 @@
   "switcher",
   "graph",
   "backlink",
-  "canvas",
   "outgoing-link",
   "tag-pane",
   "page-preview",
@@ -14,9 +13,9 @@
   "command-palette",
   "editor-status",
   "bookmarks",
+  "markdown-importer",
   "outline",
   "word-count",
-  "audio-recorder",
   "workspaces",
   "file-recovery"
 ]

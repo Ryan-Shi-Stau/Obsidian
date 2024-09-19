@@ -4,59 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b8f54e415784cd35",
+        "id": "64277d5ec15ef698",
         "type": "tabs",
         "children": [
           {
-            "id": "40ee84a2c8484c20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SPH4U (physics)/Unit 0 (review)/Kinematics/2 Tangents, Secants on Kinematics Graphs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62c64263e6719068",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SPH4U (physics)/Unit 0 (review)/Kinematics/1 What is kinematics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f453aea48116d7d3",
+            "id": "b63f93b632a73eaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Home Page.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8a279d8ce8477d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MHV4U (calculus)/MHV4U MOC.md",
-                "mode": "source",
+                "mode": "preview",
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,6 +40,16 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d239adede866e5cb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home Page.md"
               }
             }
           },
@@ -157,13 +131,11 @@
             }
           },
           {
-            "id": "6615f3442eab82f2",
+            "id": "5c8f7efa3e00a254",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "Home Page.md"
-              }
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           },
           {
@@ -171,14 +143,6 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "5c8f7efa3e00a254",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
             }
           },
@@ -191,12 +155,25 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
+      },
+      {
+        "id": "ded16417df829175",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68c7de17ff25c5e0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,45 +184,47 @@
       "command-palette:Open command palette": false,
       "daily-notes:Open today's daily note": false,
       "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "workspaces:Manage workspace layouts": false,
+      "markdown-importer:Open format converter": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "f453aea48116d7d3",
+  "active": "bf3c4d183382096c",
   "lastOpenFiles": [
-    "SPH4U (physics)/SPH4U MOC.md",
-    "Home Page.md",
-    "MHV4U (calculus)/MHV4U MOC.md",
     "MHV4U (calculus)/Unit 1/MHV4U Unit 1 MOC.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "SPH4U (physics)/Unit 0 (review)/Kinematics/1 What is kinematics.md",
-    "SPH4U (physics)/Unit 0 (review)/SPH4U Unit 0 MOC.md",
+    "MHV4U (calculus)/Unit 1/1.3 Rate of Change.md",
+    "MHV4U (calculus)/Unit 1/1.2 Slope of a tangent.md",
+    "MHV4U (calculus)/Unit 1/1.1 Rationalizing Denominators.md",
+    "Home Page.md",
+    "README.md",
     "SPH4U (physics)/Unit 0 (review)/Kinematics/2 Tangents, Secants on Kinematics Graphs.md",
+    "SPH4U (physics)/Unit 0 (review)/Kinematics/1 What is kinematics.md",
+    "MHV4U (calculus)/MHV4U MOC.md",
+    "Excalidraw/Drawing 2024-09-13 14.24.24.excalidraw.md",
+    "Untitled.md",
+    "SPH4U (physics)/SPH4U MOC.md",
+    "Untitled 1.md",
+    "SPH4U (physics)/Unit 0 (review)/SPH4U Unit 0 MOC.md",
     "MHV4U (calculus)/Unit 1/Unit 1 Practice Test.md",
     "MHV4U (calculus)/Unit 1/Calc Homework Unit 1.md",
-    "MHV4U (calculus)/Unit 1/1.3 Rate of Change.md",
     "MHV4U (calculus)/Unit 1/1.6 Continuity.md",
     "MHV4U (calculus)/Unit 1/1.5 Properties of Limits.md",
     "MHV4U (calculus)/Unit 1/1.4 The Limit of a function.md",
-    "MHV4U (calculus)/Unit 1/1.2 Slope of a tangent.md",
-    "MHV4U (calculus)/Unit 1/1.1 Rationalizing Denominators.md",
     "SPH4U (physics)/Ms Lee's advice.md",
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "SPH4U (physics)/Unit 0 (review)/Error Analysis/Sig digs in measurements in labs.md",
-    "README.md",
     "SPH4U (physics)/Unit 0 (review)/Error Analysis/Pasted image 20240917133043.png",
     "MHV4U (calculus)/Unit 2/2.2 The derivatives of polynomial functions.md",
     "HRE4M1 (religion)/Unit 1/HRE4M1 Unit 1 MOC.md",
     "HRE4M1 (religion)/HRE4M1 MOC.md",
     "HRE4M1 (religion)/Unit 1/The Rules we lived by.md",
     "MHV4U (calculus)/Unit 2/MHV4U Unit 2 MOC.md",
-    "SPH4U (physics)/Unit 0 (review)/Error Analysis/accuracy vs precision.md",
     "SPH4U (physics)/Unit 0 (review)/Kinematics/vocab",
     "SPH4U (physics)/Unit 0 (review)/Error Analysis",
     "SPH4U (physics)/Unit 0 (review)/Kinematics",

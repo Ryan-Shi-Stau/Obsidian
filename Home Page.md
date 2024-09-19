@@ -20,5 +20,5 @@ cssclasses:
 # [[HRE4M1 MOC|HRE4M1]]
 - [[HRE4M1 Unit 1 MOC|Unit 1]] 
 
-	# Git (https://github.com/Ryan-Shi-Stau/Obsidian) 
+# Git (https://github.com/Ryan-Shi-Stau/Obsidian) 
 - [[README]]
