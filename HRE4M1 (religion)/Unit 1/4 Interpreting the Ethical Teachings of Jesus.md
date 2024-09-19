@@ -1,0 +1,13 @@
+
+- Jesus' Sermon on the Mount contains the heart of jesus' ethical message
+- Basically the summary of the gospel
+- to understand how we can interpret jesus' teachings for us today, we need important tools
+	- exegesis 
+	- hermeneutics
+- exegesis is the study of scripture texts in their original context
+	- looks at language, historical context, traditions, and other existing writings that influenced the authors of the texts
+- hermeneutics is the task of interpretation
+	- when we intrepret something we do so with reference to something else
+	- matthrew wrote in an era different from our own
+	- we must identify key lenses through which we read scripture
+		- e.g. apocalyptic literature, kingdom of god

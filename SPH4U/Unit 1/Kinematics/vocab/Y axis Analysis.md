@@ -1,7 +1,0 @@
-- Y axis values can be any combination of the vocab word reviewed 
-- below x axis is negative, above is positive
-- if values are getting closer to x axis they are decreasing
-- if values are getting further away they are increasing
-- if the line is diagonal the values are constantly chagin
-- if the line is flat the values are constant
-- if the line is curved the lines are changing non-constantly
